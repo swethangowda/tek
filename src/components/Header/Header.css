@@ -1,0 +1,26 @@
+.title{
+  padding:0px 10px 0px 10px;
+  font-size: 11px;
+  margin-top: 20px;
+  font-style: Lato-Regular;
+  font-weight: bold;
+
+}
+.title1{
+  padding:0px 10px 0px 10px;
+  font-size: 13px;
+  margin-bottom: 0px;
+  margin-top: 1px;
+  color: red;
+  font-style: Lato-Regular;
+
+}
+.title2{
+  padding:0px 10px 0px 10px;
+  font-size: 13px;
+  margin-bottom: 0px;
+  margin-top: 33px;
+  color: red;
+  font-style: Lato-Regular;
+
+}

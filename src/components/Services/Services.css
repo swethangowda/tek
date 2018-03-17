@@ -1,0 +1,19 @@
+.services{
+  float:left;
+  color:red;
+  margin-left: none;
+}
+.our{
+  float:right;
+
+}
+.app{
+  padding-top: 20px;
+}
+.bottom{
+  padding-bottom: 7s0px;
+}
+.titles{
+  font-weight: bold;
+  font-size:16px;
+}

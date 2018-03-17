@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  float:left;
+  padding:30px 10px 10px 70px;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 5px;
+  padding: 10px;
+  color: white;
+}
+.row{
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+
+}
+
+.App-logo-footer{
+
+  float:left;
+  padding:30px 10px 10px 70px;
+  height: 100px;
+}
+.App-logo-footer1{
+
+  height: 80px;
+  padding:30px 10px 30px 70px;
+}
+.App-logo-footer2{
+    height: 150px;
+    width:220px;
+  padding:30px 50px 30px 10px;
+}
+.App-social-g+{
+  width:14.162px;
+  height:9px;
+}
+.App-social-twitter{
+  width:10.832px;
+  height:9px;
+}
+.App-Header {
+  width: 23px;
+  height: 14px;
+  padding: 50px 10px 10px 100px;
+  color: white;
+}
+
+.App-Header1 {
+
+  height: 15px;
+  padding: 30px 10px 10px 10px;
+  color: white;
+}
+.App-head1 {
+
+  height: 10px;
+  padding: 10px;
+  color: white;
+}
+.App-headfoot{
+  height:15px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

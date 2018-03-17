@@ -1,0 +1,40 @@
+.services{
+  float:left;
+  color:red;
+  font-size: 30px;
+  font-weight: bold;
+}
+.our{
+  float:right;
+  font-size: 30px;
+  font-weight: bold;
+}
+.post{
+  height:200px;;
+  width:250px;
+}
+.Post-Text{
+  margin-left:70px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.fpost{
+  font-weight: bold;
+  font-size: 16px;
+}
+.Post-Text1{
+  margin-left: 1px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.Post-Text2{
+  margin-left: 120px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.recent1{
+    padding-bottom: 75px;
+}
+.recent2{
+  padding-top: 30px;
+}
